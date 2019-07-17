@@ -1,0 +1,132 @@
+
+body
+{
+ background-image: url("beach.jpg");
+ background-size: 100%;
+}
+h1, h2
+{
+	color: white;
+}
+.boldclass
+{
+	font-weight: bold;
+}
+ul
+{
+	color: black;
+	font-size: 30px;
+}
+a
+{
+	font-size: 36px;
+	border: 3px solid black;
+}
+table, th, td
+{
+  border: 2px solid black;
+}
+th, td
+{
+  padding: 10px;
+}
+<style>
+a:link
+{
+  color: blue; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+a:visited
+{
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover
+{
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active
+{
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+
+h4
+{
+	color: black;
+	font-size: 32px;
+	text-decoration: underline;
+	font-weight: bold;
+}
+h5
+{
+	color: black;
+	font-size: 32px;
+	text-decoration: underline;
+	font-weight: bold;
+}
+h6
+{
+	color: black;
+	font-size: 32px;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+fieldset
+{
+	border: 4px;
+}
+table
+{
+	background-color: blue;
+	color: black;
+}
+img
+{
+	padding-right: 40px;
+	padding-bottom: 50px;
+}
+h3
+{
+	color: white;
+	font-size: 28px;
+}
+a.error:hover
+{
+	color: blue;
+}
+.underclass
+{
+	text-decoration: underline;
+}
+#bigId
+{
+	font-size: 32px;
+	text
+}
+#rightId
+{
+	text-align: right
+}
+#sideId
+{
+	text-orientation: sideways;
+}
+.lowerclass
+{
+	text-transform: lowercase;
+}
+.upperclass
+{
+	text-transform: uppercase;
+}
