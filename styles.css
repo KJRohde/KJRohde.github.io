@@ -33,7 +33,7 @@ th, td
 <style>
 a:link
 {
-  color: blue; 
+  color: black; 
   background-color: transparent; 
   text-decoration: none;
 }
@@ -52,7 +52,7 @@ a:hover
   text-decoration: underline;
 }
 
-a:active
+a:actives
 {
   color: yellow;
   background-color: transparent;
